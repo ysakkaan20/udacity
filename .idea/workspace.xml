@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1111368c-90a4-4b20-907e-9275e0b927ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactnd-contacts-complete/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/reactnd-contacts-complete/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactnd-contacts-complete/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactnd-contacts-complete/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactnd-contacts-complete/src/utils/ContactsAPI.js" beforeDir="false" afterPath="$PROJECT_DIR$/reactnd-contacts-complete/src/utils/ContactsAPI.js" afterDir="false" />
@@ -18,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reactnd-contacts-complete" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,7 +50,7 @@
       <updated>1674388314270</updated>
       <workItem from="1674388316391" duration="2571000" />
       <workItem from="1674403868101" duration="535000" />
-      <workItem from="1674405331515" duration="2069000" />
+      <workItem from="1674405331515" duration="4165000" />
     </task>
     <servers />
   </component>
